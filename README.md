@@ -1,3 +1,10 @@
+> **Moved.** Current examples for the US Import Risk Screening API live in
+> [aervik-labs/aervik-api](https://github.com/aervik-labs/aervik-api), with the OpenAPI document,
+> the docs and a Postman collection:
+> [`examples/import-risk-screening/`](https://github.com/aervik-labs/aervik-api/tree/main/examples/import-risk-screening).
+> This repository is archived. The code below is kept for history, is not maintained, and predates
+> the current response shape -- do not build on it.
+
 # UFLPA & Denied-Party Screening API -- Quickstart
 
 Screen a supplier or manufacturer name against the **DHS/FLETF UFLPA Entity List** and the
